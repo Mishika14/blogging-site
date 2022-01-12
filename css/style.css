@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Merriweather',serif;
+}
+h1{
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento',cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    color: #585858 ;
+
+}
+h2{
+    font-size: 2.5rem;
+    color:#585858;
+    font-weight: normal;
+
+}
+
+h3{
+    color: #11999E ;
+}
+   
+
+}
+
+.top{
+    margin: auto;
+    background-color :#fcd1d1 ;
+    position: relative;
+    padding-top:  110px;
+    
+}
+    
+    
+.middle{
+    margin-top: none;
+    background-color: #aee1e1;
+    padding: 0px;
+
+}
+.contact-me{
+    background-color: #AEE1E1;
+    }
+.bottom-container{
+    background-color: #AEE1E1;
+}
+.bottomcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top:50px;
+}
+.my{
+    margin-top: 50px;;
+    padding-top: 20px;
+    border-radius: 800px;
+    height: 280px;
+    width: 300px;
+
+}
+
+.contactmessage{
+width: 40%;
+margin: 40px auto 60px;
+}
+.footer-link{
+    color: #585858;
+}
+a{
+    color: #585858;
+}

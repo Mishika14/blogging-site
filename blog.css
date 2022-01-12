@@ -1,0 +1,90 @@
+body{
+    background-color: grey;
+}
+.front
+{    margin-top: 4em;
+    margin-left: 4em;
+    
+    background-color: #ECE2E1;
+    width:  1125px;
+    height:1500px;
+}
+.robotos{
+    height: 300px;
+    width: 70%;
+    
+    padding-left: 150px;
+    padding-top:0.5em;
+    
+    
+
+}
+h2{
+    text-align: center;
+    font-weight: 0;
+    font-family: Merriweather;
+    font-size:3em;
+    
+}
+p{
+    line-height: 1.8;
+}
+
+
+
+
+h3{
+    margin-top: 50px;
+    text-align: left;
+}
+.idea{
+    margin-right: 20px;
+    width:  30px;
+    float: left;
+    
+}
+
+.image-drink{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 10px;
+}
+h4{
+    margin-bottom: 20px;
+}
+.image{
+    padding-top:10px;
+
+}
+
+.breakfasti{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin:10px;}
+.lunch{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 10px;
+    padding-top: 10px;
+    margin: 10px;
+
+}
+.diet{
+    width:50px;
+    height: 50px;
+    float:left;
+    margin-left: 10px ;
+    padding-top:10px;
+    margin: 10px;
+}
+.dinner{
+    width:50px;
+    height: 50px;
+    float:left;
+    margin-left: 10px ;
+    padding-top:10px;
+    margin: 10px;
+}
